@@ -29,7 +29,7 @@ Sistem berbasis web yang dirancang untuk membantu sekolah dan wali murid dalam m
 
 | Dashboard | Entri Nilai | Kehadiran |
 |----------|-------------|-----------|
-| ![Dashboard](screenshots/2._admin's_dashboard.png) | ![Nilai](screenshots/2.13_student's_grade_management.png) | ![Kehadiran](screenshots/2.12 Student's_Attendance_Management.png) |
+| ![Dashboard](screenshots/2._admin's_dashboard.png) | ![Nilai](screenshots/2.13_student's_grade_management.png) | ![Kehadiran](screenshots/2.12_student's_attendance_management.png) |
 
 ## 🏁 Dampak Proyek
 
