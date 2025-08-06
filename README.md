@@ -38,5 +38,5 @@ Sistem berbasis web yang dirancang untuk membantu sekolah dan wali murid dalam m
 - Menunjukkan kapabilitas full-cycle development oleh satu developer.
 
 ## 📁 Dokumentasi Tambahan
-Untuk melihat lebih banyak tampilan antarmuka atau screenshot lainnya, silakan buka folder ./screenshots. Folder ini berisi dokumentasi visual dari berbagai fitur sistem secara lebih lengkap.
 
+Untuk melihat lebih banyak tampilan antarmuka atau screenshot lainnya, silakan buka folder `./screenshots`. Folder ini berisi dokumentasi visual lengkap dari berbagai fitur yang tersedia dalam sistem.
