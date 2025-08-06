@@ -1,4 +1,4 @@
-# 🎓 Student Evaluation & Monitoring System
+# 🎓 Sistem Informasi Evaluasi dan Pemantauan Murid
 
 <p align="center">
   <img src="screenshots/2._admin's_dashboard.png" width="700" alt="Dashboard Admin Screenshot"/>
@@ -39,4 +39,4 @@ Sistem berbasis web yang dirancang untuk membantu sekolah dan wali murid dalam m
 
 ## 📁 Dokumentasi Tambahan
 
-Untuk melihat lebih banyak tampilan antarmuka atau screenshot lainnya, silakan buka folder `./screenshots`. Folder ini berisi dokumentasi visual lengkap dari berbagai fitur yang tersedia dalam sistem.
+Untuk melihat lebih banyak tampilan antarmuka atau screenshot lainnya, silakan buka folder `./screenshots`. Folder ini berisi dokumentasi visual lengkap dari berbagai fitur yang tersedia dalam sistem
