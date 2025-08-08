@@ -1,3 +1,4 @@
+[EN]
 # 🎓 Student Evaluation & Monitoring System
 
 <p align="center">
